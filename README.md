@@ -1,7 +1,7 @@
 # 📊 Análise de Falhas e Chamados na Rede
 
 ## Objetivo
-Este projeto tem como objetivo analisar o desempenho operacional de uma rede de telecom, identificando padrões de falhas, eficiência das equipes e tempo de resolução de chamados.
+Este projeto tem como objetivo analisar o desempenho operacional de uma rede de telecomunicações, com foco na identificação de padrões de falhas, eficiência das equipes e tempo de resolução de chamados.
 
 ---
 
