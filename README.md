@@ -13,7 +13,7 @@ A partir disso, este projeto busca transformar dados operacionais em insights pa
 
 ## Ferramentas utilizadas
 - SQL (T-SQL)
-- Para execução online, foi utilizada adaptação para SQLite.
+- Para execução online, foi utilizada adaptação para db-fiddle.
 - Banco de dados relacional
 - GitHub (documentação e versionamento)
 
