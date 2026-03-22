@@ -6,13 +6,14 @@ Este projeto tem como objetivo analisar o desempenho operacional de uma rede de 
 ---
 
 ## Contexto
-No setor de telecom, a análise de chamados é essencial para garantir qualidade de serviço e eficiência operacional.  
-A partir disso, este projeto busca transformar dados operacionais em insights para apoio à tomada de decisão.
+No setor de telecomunicações, a análise de chamados é essencial para garantir qualidade de serviço e eficiência operacional.  
+A partir disso, este projeto busca transformar dados operacionais em insights para apoio à tomada de decisões necessárias.
 
 ---
 
 ## Ferramentas utilizadas
 - SQL (T-SQL)
+- Para execução online, foi utilizada adaptação para SQLite.
 - Banco de dados relacional
 - GitHub (documentação e versionamento)
 
