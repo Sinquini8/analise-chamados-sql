@@ -1,0 +1,1 @@
+# SQL-_An-lise-Operacional
